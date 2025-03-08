@@ -1,0 +1,15 @@
+D:\CoreCommunityProject\CommunityProjectCore\Community_DAL\bin\Debug\net8.0\Community_DAL.deps.json
+D:\CoreCommunityProject\CommunityProjectCore\Community_DAL\bin\Debug\net8.0\Community_DAL.dll
+D:\CoreCommunityProject\CommunityProjectCore\Community_DAL\bin\Debug\net8.0\Community_DAL.pdb
+D:\CoreCommunityProject\CommunityProjectCore\Community_DAL\bin\Debug\net8.0\Community_Model.dll
+D:\CoreCommunityProject\CommunityProjectCore\Community_DAL\bin\Debug\net8.0\Community_Model.pdb
+D:\CoreCommunityProject\CommunityProjectCore\Community_DAL\obj\Debug\net8.0\Community_DAL.csproj.AssemblyReference.cache
+D:\CoreCommunityProject\CommunityProjectCore\Community_DAL\obj\Debug\net8.0\Community_DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CoreCommunityProject\CommunityProjectCore\Community_DAL\obj\Debug\net8.0\Community_DAL.AssemblyInfoInputs.cache
+D:\CoreCommunityProject\CommunityProjectCore\Community_DAL\obj\Debug\net8.0\Community_DAL.AssemblyInfo.cs
+D:\CoreCommunityProject\CommunityProjectCore\Community_DAL\obj\Debug\net8.0\Community_DAL.csproj.CoreCompileInputs.cache
+D:\CoreCommunityProject\CommunityProjectCore\Community_DAL\obj\Debug\net8.0\Communit.A9A633DC.Up2Date
+D:\CoreCommunityProject\CommunityProjectCore\Community_DAL\obj\Debug\net8.0\Community_DAL.dll
+D:\CoreCommunityProject\CommunityProjectCore\Community_DAL\obj\Debug\net8.0\refint\Community_DAL.dll
+D:\CoreCommunityProject\CommunityProjectCore\Community_DAL\obj\Debug\net8.0\Community_DAL.pdb
+D:\CoreCommunityProject\CommunityProjectCore\Community_DAL\obj\Debug\net8.0\ref\Community_DAL.dll

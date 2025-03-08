@@ -1,0 +1,17 @@
+D:\CoreCommunityProject\CommunityProjectCore\Community_BAL\bin\Debug\net8.0\Community_BAL.deps.json
+D:\CoreCommunityProject\CommunityProjectCore\Community_BAL\bin\Debug\net8.0\Community_BAL.dll
+D:\CoreCommunityProject\CommunityProjectCore\Community_BAL\bin\Debug\net8.0\Community_BAL.pdb
+D:\CoreCommunityProject\CommunityProjectCore\Community_BAL\bin\Debug\net8.0\Community_DAL.dll
+D:\CoreCommunityProject\CommunityProjectCore\Community_BAL\bin\Debug\net8.0\Community_Model.dll
+D:\CoreCommunityProject\CommunityProjectCore\Community_BAL\bin\Debug\net8.0\Community_DAL.pdb
+D:\CoreCommunityProject\CommunityProjectCore\Community_BAL\bin\Debug\net8.0\Community_Model.pdb
+D:\CoreCommunityProject\CommunityProjectCore\Community_BAL\obj\Debug\net8.0\Community_BAL.csproj.AssemblyReference.cache
+D:\CoreCommunityProject\CommunityProjectCore\Community_BAL\obj\Debug\net8.0\Community_BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CoreCommunityProject\CommunityProjectCore\Community_BAL\obj\Debug\net8.0\Community_BAL.AssemblyInfoInputs.cache
+D:\CoreCommunityProject\CommunityProjectCore\Community_BAL\obj\Debug\net8.0\Community_BAL.AssemblyInfo.cs
+D:\CoreCommunityProject\CommunityProjectCore\Community_BAL\obj\Debug\net8.0\Community_BAL.csproj.CoreCompileInputs.cache
+D:\CoreCommunityProject\CommunityProjectCore\Community_BAL\obj\Debug\net8.0\Communit.F3B67026.Up2Date
+D:\CoreCommunityProject\CommunityProjectCore\Community_BAL\obj\Debug\net8.0\Community_BAL.dll
+D:\CoreCommunityProject\CommunityProjectCore\Community_BAL\obj\Debug\net8.0\refint\Community_BAL.dll
+D:\CoreCommunityProject\CommunityProjectCore\Community_BAL\obj\Debug\net8.0\Community_BAL.pdb
+D:\CoreCommunityProject\CommunityProjectCore\Community_BAL\obj\Debug\net8.0\ref\Community_BAL.dll

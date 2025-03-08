@@ -1,0 +1,12 @@
+D:\CoreCommunityProject\CommunityProjectCore\Communit_Model\bin\Debug\net8.0\Communit_Model.deps.json
+D:\CoreCommunityProject\CommunityProjectCore\Communit_Model\bin\Debug\net8.0\Communit_Model.dll
+D:\CoreCommunityProject\CommunityProjectCore\Communit_Model\bin\Debug\net8.0\Communit_Model.pdb
+D:\CoreCommunityProject\CommunityProjectCore\Communit_Model\obj\Debug\net8.0\Communit_Model.csproj.AssemblyReference.cache
+D:\CoreCommunityProject\CommunityProjectCore\Communit_Model\obj\Debug\net8.0\Communit_Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\CoreCommunityProject\CommunityProjectCore\Communit_Model\obj\Debug\net8.0\Communit_Model.AssemblyInfoInputs.cache
+D:\CoreCommunityProject\CommunityProjectCore\Communit_Model\obj\Debug\net8.0\Communit_Model.AssemblyInfo.cs
+D:\CoreCommunityProject\CommunityProjectCore\Communit_Model\obj\Debug\net8.0\Communit_Model.csproj.CoreCompileInputs.cache
+D:\CoreCommunityProject\CommunityProjectCore\Communit_Model\obj\Debug\net8.0\Communit_Model.dll
+D:\CoreCommunityProject\CommunityProjectCore\Communit_Model\obj\Debug\net8.0\refint\Communit_Model.dll
+D:\CoreCommunityProject\CommunityProjectCore\Communit_Model\obj\Debug\net8.0\Communit_Model.pdb
+D:\CoreCommunityProject\CommunityProjectCore\Communit_Model\obj\Debug\net8.0\ref\Communit_Model.dll

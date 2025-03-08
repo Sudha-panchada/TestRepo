@@ -1,0 +1,404 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CoreCommunityProject\\CommunityProjectCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75476E40-824B-4876-8898-31689CE8927A}|CommunityProjectCore\\CommunityProjectCore.csproj|d:\\corecommunityproject\\communityprojectcore\\communityprojectcore\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75476E40-824B-4876-8898-31689CE8927A}|CommunityProjectCore\\CommunityProjectCore.csproj|solutionrelative:communityprojectcore\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FED6B1-B966-49DE-9B4C-AE85DCADA805}|Community_BAL\\Community_BAL.csproj|d:\\corecommunityproject\\communityprojectcore\\community_bal\\login\\loginbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FED6B1-B966-49DE-9B4C-AE85DCADA805}|Community_BAL\\Community_BAL.csproj|solutionrelative:community_bal\\login\\loginbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFE9941-5BE6-4C02-A6B9-DB2ED8EAC199}|Community_DAL\\Community_DAL.csproj|d:\\corecommunityproject\\communityprojectcore\\community_dal\\login\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFE9941-5BE6-4C02-A6B9-DB2ED8EAC199}|Community_DAL\\Community_DAL.csproj|solutionrelative:community_dal\\login\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FED6B1-B966-49DE-9B4C-AE85DCADA805}|Community_BAL\\Community_BAL.csproj|d:\\corecommunityproject\\communityprojectcore\\community_bal\\forum\\forumsbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FED6B1-B966-49DE-9B4C-AE85DCADA805}|Community_BAL\\Community_BAL.csproj|solutionrelative:community_bal\\forum\\forumsbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFE9941-5BE6-4C02-A6B9-DB2ED8EAC199}|Community_DAL\\Community_DAL.csproj|d:\\corecommunityproject\\communityprojectcore\\community_dal\\forumss\\forumsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFE9941-5BE6-4C02-A6B9-DB2ED8EAC199}|Community_DAL\\Community_DAL.csproj|solutionrelative:community_dal\\forumss\\forumsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75476E40-824B-4876-8898-31689CE8927A}|CommunityProjectCore\\CommunityProjectCore.csproj|d:\\corecommunityproject\\communityprojectcore\\communityprojectcore\\controllers\\forum\\forumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75476E40-824B-4876-8898-31689CE8927A}|CommunityProjectCore\\CommunityProjectCore.csproj|solutionrelative:communityprojectcore\\controllers\\forum\\forumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2369A83B-CF76-411E-A4DD-569ACB5C10F9}|Communit_Model\\Community_Model.csproj|d:\\corecommunityproject\\communityprojectcore\\communit_model\\forum\\forumsreply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2369A83B-CF76-411E-A4DD-569ACB5C10F9}|Communit_Model\\Community_Model.csproj|solutionrelative:communit_model\\forum\\forumsreply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2369A83B-CF76-411E-A4DD-569ACB5C10F9}|Communit_Model\\Community_Model.csproj|d:\\corecommunityproject\\communityprojectcore\\communit_model\\forum\\forums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2369A83B-CF76-411E-A4DD-569ACB5C10F9}|Communit_Model\\Community_Model.csproj|solutionrelative:communit_model\\forum\\forums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFE9941-5BE6-4C02-A6B9-DB2ED8EAC199}|Community_DAL\\Community_DAL.csproj|d:\\corecommunityproject\\communityprojectcore\\community_dal\\community_dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FEFE9941-5BE6-4C02-A6B9-DB2ED8EAC199}|Community_DAL\\Community_DAL.csproj|solutionrelative:community_dal\\community_dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75476E40-824B-4876-8898-31689CE8927A}|CommunityProjectCore\\CommunityProjectCore.csproj|d:\\corecommunityproject\\communityprojectcore\\communityprojectcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75476E40-824B-4876-8898-31689CE8927A}|CommunityProjectCore\\CommunityProjectCore.csproj|solutionrelative:communityprojectcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2369A83B-CF76-411E-A4DD-569ACB5C10F9}|Communit_Model\\Community_Model.csproj|d:\\corecommunityproject\\communityprojectcore\\communit_model\\login\\securityqustions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2369A83B-CF76-411E-A4DD-569ACB5C10F9}|Communit_Model\\Community_Model.csproj|solutionrelative:communit_model\\login\\securityqustions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2369A83B-CF76-411E-A4DD-569ACB5C10F9}|Communit_Model\\Community_Model.csproj|d:\\corecommunityproject\\communityprojectcore\\communit_model\\login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2369A83B-CF76-411E-A4DD-569ACB5C10F9}|Communit_Model\\Community_Model.csproj|solutionrelative:communit_model\\login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75476E40-824B-4876-8898-31689CE8927A}|CommunityProjectCore\\CommunityProjectCore.csproj|d:\\corecommunityproject\\communityprojectcore\\communityprojectcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75476E40-824B-4876-8898-31689CE8927A}|CommunityProjectCore\\CommunityProjectCore.csproj|solutionrelative:communityprojectcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2369A83B-CF76-411E-A4DD-569ACB5C10F9}|Communit_Model\\Community_Model.csproj|d:\\corecommunityproject\\communityprojectcore\\communit_model\\communitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2369A83B-CF76-411E-A4DD-569ACB5C10F9}|Communit_Model\\Community_Model.csproj|solutionrelative:communit_model\\communitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75476E40-824B-4876-8898-31689CE8927A}|CommunityProjectCore\\CommunityProjectCore.csproj|d:\\corecommunityproject\\communityprojectcore\\communityprojectcore\\model\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75476E40-824B-4876-8898-31689CE8927A}|CommunityProjectCore\\CommunityProjectCore.csproj|solutionrelative:communityprojectcore\\model\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFE9941-5BE6-4C02-A6B9-DB2ED8EAC199}|Community_DAL\\Community_DAL.csproj|d:\\corecommunityproject\\communityprojectcore\\community_dal\\articless\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFE9941-5BE6-4C02-A6B9-DB2ED8EAC199}|Community_DAL\\Community_DAL.csproj|solutionrelative:community_dal\\articless\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2369A83B-CF76-411E-A4DD-569ACB5C10F9}|Communit_Model\\Community_Model.csproj|d:\\corecommunityproject\\communityprojectcore\\communit_model\\articles\\postarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2369A83B-CF76-411E-A4DD-569ACB5C10F9}|Communit_Model\\Community_Model.csproj|solutionrelative:communit_model\\articles\\postarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75476E40-824B-4876-8898-31689CE8927A}|CommunityProjectCore\\CommunityProjectCore.csproj|d:\\corecommunityproject\\communityprojectcore\\communityprojectcore\\communityprojectcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75476E40-824B-4876-8898-31689CE8927A}|CommunityProjectCore\\CommunityProjectCore.csproj|solutionrelative:communityprojectcore\\communityprojectcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75476E40-824B-4876-8898-31689CE8927A}|CommunityProjectCore\\CommunityProjectCore.csproj|d:\\corecommunityproject\\communityprojectcore\\communityprojectcore\\controllers\\articl\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75476E40-824B-4876-8898-31689CE8927A}|CommunityProjectCore\\CommunityProjectCore.csproj|solutionrelative:communityprojectcore\\controllers\\articl\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FED6B1-B966-49DE-9B4C-AE85DCADA805}|Community_BAL\\Community_BAL.csproj|d:\\corecommunityproject\\communityprojectcore\\community_bal\\article\\articlebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FED6B1-B966-49DE-9B4C-AE85DCADA805}|Community_BAL\\Community_BAL.csproj|solutionrelative:community_bal\\article\\articlebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2369A83B-CF76-411E-A4DD-569ACB5C10F9}|Communit_Model\\Community_Model.csproj|d:\\corecommunityproject\\communityprojectcore\\communit_model\\projects\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2369A83B-CF76-411E-A4DD-569ACB5C10F9}|Communit_Model\\Community_Model.csproj|solutionrelative:communit_model\\projects\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FED6B1-B966-49DE-9B4C-AE85DCADA805}|Community_BAL\\Community_BAL.csproj|d:\\corecommunityproject\\communityprojectcore\\community_bal\\community_bal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15FED6B1-B966-49DE-9B4C-AE85DCADA805}|Community_BAL\\Community_BAL.csproj|solutionrelative:community_bal\\community_bal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75476E40-824B-4876-8898-31689CE8927A}|CommunityProjectCore\\CommunityProjectCore.csproj|d:\\corecommunityproject\\communityprojectcore\\communityprojectcore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75476E40-824B-4876-8898-31689CE8927A}|CommunityProjectCore\\CommunityProjectCore.csproj|solutionrelative:communityprojectcore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForumsRepository.cs",
+              "DocumentMoniker": "D:\\CoreCommunityProject\\CommunityProjectCore\\Community_DAL\\Forumss\\ForumsRepository.cs",
+              "RelativeDocumentMoniker": "Community_DAL\\Forumss\\ForumsRepository.cs",
+              "ToolTip": "D:\\CoreCommunityProject\\CommunityProjectCore\\Community_DAL\\Forumss\\ForumsRepository.cs",
+              "RelativeToolTip": "Community_DAL\\Forumss\\ForumsRepository.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAswGgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T07:11:40.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\CoreCommunityProject\\CommunityProjectCore\\CommunityProjectCore\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "CommunityProjectCore\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\CoreCommunityProject\\CommunityProjectCore\\CommunityProjectCore\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "CommunityProjectCore\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAowGUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:09:54.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ForumsReply.cs",
+              "DocumentMoniker": "D:\\CoreCommunityProject\\CommunityProjectCore\\Communit_Model\\Forum\\ForumsReply.cs",
+              "RelativeDocumentMoniker": "Communit_Model\\Forum\\ForumsReply.cs",
+              "ToolTip": "D:\\CoreCommunityProject\\CommunityProjectCore\\Communit_Model\\Forum\\ForumsReply.cs",
+              "RelativeToolTip": "Communit_Model\\Forum\\ForumsReply.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:43:10.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Community_DAL.csproj",
+              "DocumentMoniker": "D:\\CoreCommunityProject\\CommunityProjectCore\\Community_DAL\\Community_DAL.csproj",
+              "RelativeDocumentMoniker": "Community_DAL\\Community_DAL.csproj",
+              "ToolTip": "D:\\CoreCommunityProject\\CommunityProjectCore\\Community_DAL\\Community_DAL.csproj",
+              "RelativeToolTip": "Community_DAL\\Community_DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-29T17:03:18.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Forums.cs",
+              "DocumentMoniker": "D:\\CoreCommunityProject\\CommunityProjectCore\\Communit_Model\\Forum\\Forums.cs",
+              "RelativeDocumentMoniker": "Communit_Model\\Forum\\Forums.cs",
+              "ToolTip": "D:\\CoreCommunityProject\\CommunityProjectCore\\Communit_Model\\Forum\\Forums.cs",
+              "RelativeToolTip": "Communit_Model\\Forum\\Forums.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:51:49.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ForumsBal.cs",
+              "DocumentMoniker": "D:\\CoreCommunityProject\\CommunityProjectCore\\Community_BAL\\Forum\\ForumsBal.cs",
+              "RelativeDocumentMoniker": "Community_BAL\\Forum\\ForumsBal.cs",
+              "ToolTip": "D:\\CoreCommunityProject\\CommunityProjectCore\\Community_BAL\\Forum\\ForumsBal.cs",
+              "RelativeToolTip": "Community_BAL\\Forum\\ForumsBal.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAqwIAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:23:53.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "D:\\CoreCommunityProject\\CommunityProjectCore\\Community_DAL\\Login\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "Community_DAL\\Login\\LoginRepository.cs",
+              "ToolTip": "D:\\CoreCommunityProject\\CommunityProjectCore\\Community_DAL\\Login\\LoginRepository.cs",
+              "RelativeToolTip": "Community_DAL\\Login\\LoginRepository.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAwwFIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:02:27.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginBal.cs",
+              "DocumentMoniker": "D:\\CoreCommunityProject\\CommunityProjectCore\\Community_BAL\\Login\\LoginBal.cs",
+              "RelativeDocumentMoniker": "Community_BAL\\Login\\LoginBal.cs",
+              "ToolTip": "D:\\CoreCommunityProject\\CommunityProjectCore\\Community_BAL\\Login\\LoginBal.cs",
+              "RelativeToolTip": "Community_BAL\\Login\\LoginBal.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAswE8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T06:20:56.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CoreCommunityProject\\CommunityProjectCore\\CommunityProjectCore\\appsettings.json",
+              "RelativeDocumentMoniker": "CommunityProjectCore\\appsettings.json",
+              "ToolTip": "D:\\CoreCommunityProject\\CommunityProjectCore\\CommunityProjectCore\\appsettings.json",
+              "RelativeToolTip": "CommunityProjectCore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T10:32:32.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ForumsController.cs",
+              "DocumentMoniker": "D:\\CoreCommunityProject\\CommunityProjectCore\\CommunityProjectCore\\Controllers\\Forum\\ForumsController.cs",
+              "RelativeDocumentMoniker": "CommunityProjectCore\\Controllers\\Forum\\ForumsController.cs",
+              "ToolTip": "D:\\CoreCommunityProject\\CommunityProjectCore\\CommunityProjectCore\\Controllers\\Forum\\ForumsController.cs",
+              "RelativeToolTip": "CommunityProjectCore\\Controllers\\Forum\\ForumsController.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAAAJIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T05:52:32.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SecurityQustions.cs",
+              "DocumentMoniker": "D:\\CoreCommunityProject\\CommunityProjectCore\\Communit_Model\\Login\\SecurityQustions.cs",
+              "RelativeDocumentMoniker": "Communit_Model\\Login\\SecurityQustions.cs",
+              "ToolTip": "D:\\CoreCommunityProject\\CommunityProjectCore\\Communit_Model\\Login\\SecurityQustions.cs",
+              "RelativeToolTip": "Communit_Model\\Login\\SecurityQustions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:31:58.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LogIn.cs",
+              "DocumentMoniker": "D:\\CoreCommunityProject\\CommunityProjectCore\\Communit_Model\\Login\\LogIn.cs",
+              "RelativeDocumentMoniker": "Communit_Model\\Login\\LogIn.cs",
+              "ToolTip": "D:\\CoreCommunityProject\\CommunityProjectCore\\Communit_Model\\Login\\LogIn.cs",
+              "RelativeToolTip": "Communit_Model\\Login\\LogIn.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:23:10.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CoreCommunityProject\\CommunityProjectCore\\CommunityProjectCore\\Program.cs",
+              "RelativeDocumentMoniker": "CommunityProjectCore\\Program.cs",
+              "ToolTip": "D:\\CoreCommunityProject\\CommunityProjectCore\\CommunityProjectCore\\Program.cs",
+              "RelativeToolTip": "CommunityProjectCore\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:23:53.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommunityDbContext.cs",
+              "DocumentMoniker": "D:\\CoreCommunityProject\\CommunityProjectCore\\Communit_Model\\CommunityDbContext.cs",
+              "RelativeDocumentMoniker": "Communit_Model\\CommunityDbContext.cs",
+              "ToolTip": "D:\\CoreCommunityProject\\CommunityProjectCore\\Communit_Model\\CommunityDbContext.cs",
+              "RelativeToolTip": "Communit_Model\\CommunityDbContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T07:14:49.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Common.cs",
+              "DocumentMoniker": "D:\\CoreCommunityProject\\CommunityProjectCore\\CommunityProjectCore\\Model\\Common.cs",
+              "RelativeDocumentMoniker": "CommunityProjectCore\\Model\\Common.cs",
+              "ToolTip": "D:\\CoreCommunityProject\\CommunityProjectCore\\CommunityProjectCore\\Model\\Common.cs",
+              "RelativeToolTip": "CommunityProjectCore\\Model\\Common.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:25:58.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ArticleRepository.cs",
+              "DocumentMoniker": "D:\\CoreCommunityProject\\CommunityProjectCore\\Community_DAL\\Articless\\ArticleRepository.cs",
+              "RelativeDocumentMoniker": "Community_DAL\\Articless\\ArticleRepository.cs",
+              "ToolTip": "D:\\CoreCommunityProject\\CommunityProjectCore\\Community_DAL\\Articless\\ArticleRepository.cs",
+              "RelativeToolTip": "Community_DAL\\Articless\\ArticleRepository.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwDkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T17:04:27.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PostArticle.cs",
+              "DocumentMoniker": "D:\\CoreCommunityProject\\CommunityProjectCore\\Communit_Model\\Articles\\PostArticle.cs",
+              "RelativeDocumentMoniker": "Communit_Model\\Articles\\PostArticle.cs",
+              "ToolTip": "D:\\CoreCommunityProject\\CommunityProjectCore\\Communit_Model\\Articles\\PostArticle.cs",
+              "RelativeToolTip": "Communit_Model\\Articles\\PostArticle.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T17:03:03.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Community_BAL.csproj",
+              "DocumentMoniker": "D:\\CoreCommunityProject\\CommunityProjectCore\\Community_BAL\\Community_BAL.csproj",
+              "RelativeDocumentMoniker": "Community_BAL\\Community_BAL.csproj",
+              "ToolTip": "D:\\CoreCommunityProject\\CommunityProjectCore\\Community_BAL\\Community_BAL.csproj",
+              "RelativeToolTip": "Community_BAL\\Community_BAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-29T17:17:30.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ArticleBal.cs",
+              "DocumentMoniker": "D:\\CoreCommunityProject\\CommunityProjectCore\\Community_BAL\\Article\\ArticleBal.cs",
+              "RelativeDocumentMoniker": "Community_BAL\\Article\\ArticleBal.cs",
+              "ToolTip": "D:\\CoreCommunityProject\\CommunityProjectCore\\Community_BAL\\Article\\ArticleBal.cs",
+              "RelativeToolTip": "Community_BAL\\Article\\ArticleBal.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T17:17:50.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "D:\\CoreCommunityProject\\CommunityProjectCore\\CommunityProjectCore\\Controllers\\Articl\\ArticleController.cs",
+              "RelativeDocumentMoniker": "CommunityProjectCore\\Controllers\\Articl\\ArticleController.cs",
+              "ToolTip": "D:\\CoreCommunityProject\\CommunityProjectCore\\CommunityProjectCore\\Controllers\\Articl\\ArticleController.cs",
+              "RelativeToolTip": "CommunityProjectCore\\Controllers\\Articl\\ArticleController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAkwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T04:29:10.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\CoreCommunityProject\\CommunityProjectCore\\Communit_Model\\Projects\\Project.cs",
+              "RelativeDocumentMoniker": "Communit_Model\\Projects\\Project.cs",
+              "ToolTip": "D:\\CoreCommunityProject\\CommunityProjectCore\\Communit_Model\\Projects\\Project.cs",
+              "RelativeToolTip": "Communit_Model\\Projects\\Project.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:24:22.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CommunityProjectCore.csproj",
+              "DocumentMoniker": "D:\\CoreCommunityProject\\CommunityProjectCore\\CommunityProjectCore\\CommunityProjectCore.csproj",
+              "RelativeDocumentMoniker": "CommunityProjectCore\\CommunityProjectCore.csproj",
+              "ToolTip": "D:\\CoreCommunityProject\\CommunityProjectCore\\CommunityProjectCore\\CommunityProjectCore.csproj",
+              "RelativeToolTip": "CommunityProjectCore\\CommunityProjectCore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-31T11:25:29.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\CoreCommunityProject\\CommunityProjectCore\\CommunityProjectCore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CommunityProjectCore\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\CoreCommunityProject\\CommunityProjectCore\\CommunityProjectCore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CommunityProjectCore\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T05:52:09.246Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
